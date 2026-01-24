@@ -36,7 +36,7 @@ Skipbox: The Game is an engaging interactive experience developed using the Proc
 
 -   **Development Environment**: Processing IDE
 -   **Language**: Java (underlying for Processing sketches)
--   **Sound Library**: [Minim](https://code.compartmental.net/tools/minim/) (Assumed based on `Game_Dev_Project_Sound.pde`)
+-   **Sound Library**: [Minim](https://code.compartmental.net/tools/minim/) 
 
 ## 🚀 Quick Start
 
